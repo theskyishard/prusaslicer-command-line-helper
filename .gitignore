@@ -1,0 +1,7 @@
+# Ignore anything in the data directories
+export-profiles/*
+output/*
+
+# Ignore any model files that end up in here for testing...
+*.stl
+*.3mf
