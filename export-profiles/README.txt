@@ -1,2 +1,0 @@
-Export your config bundle here and use the 'split-config-bundle.py' Python script to pull all of your presets out into separate files. 
-The prusaslicer command line tools aren't compatible with config bundles so you have to explicitly tell it which preset(s) to use.

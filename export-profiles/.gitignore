@@ -1,4 +1,3 @@
-# Ignore everything except this file and the readme to ensure folder structure is preserved on checkout
+# Ignore everything except this file to ensure folder structure is preserved on checkout
 *
 !.gitignore
-!*.txt
