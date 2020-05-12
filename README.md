@@ -1,7 +1,5 @@
 # PrusaSlicer command line slicing scripts
 
-Author: Mitchell Lane (theskyishard)
-
 ## Description:
 
 This repo is intended to simplify the process of slicing multiple STLs using PrusaSlicer by leveraging the command line interface.
